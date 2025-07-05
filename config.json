@@ -76,6 +76,11 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+      "name": "旺旺短剧"
+    },
+    "ikun": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
     }
   }
 }
